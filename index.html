@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@latest/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+  <script src="https://unpkg.com/leaflet@latest/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <title>Map</title>
+  <style>
+    body { margin: 0; padding: 0; font-family: monospace; }
+    #map { height: 97vh; }
+    #control { display: flex; align-items: center; height: 3vh; background-color: black; color: white; }
+    span { margin: 10px; }
+    input { padding: 10px; border: white; }
+    #save { margin: 10px; padding: 10px; border: white; cursor: pointer; }
+    #cityDropdown { padding: 10px; border: white; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div id="control">
+    <span id="opacityValue">Opacity Modifier</span>
+    <input type="number" min="1" max="100000" value="100000" id="opacityModifier">
+    <span id="weightValue">Weight Modifier</span>
+    <input type="number" min="0" max="10" value="1" id="weightModifier">
+    <button id="save">Save</button>
+    <select id="cityDropdown"></select>
+    <span id="loading"></span>
+  </div>
+  <div id="map"></div>
+  <script src="build/index.js"></script>
+  <script src="build/math.js"></script>
+  <script src="build/style.js"></script>
+</body>
+</html>
