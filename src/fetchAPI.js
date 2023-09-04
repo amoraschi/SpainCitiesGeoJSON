@@ -1,4 +1,4 @@
-import { writeFileSync } from 'fs'
+import { existsSync, mkdirSync, writeFileSync } from 'fs'
 import fetch from 'node-fetch'
 import osm2geojson from 'osm2geojson-lite'
 
@@ -40,7 +40,12 @@ async function fetchAPI (name) {
 
   console.log('Converted data')
   console.log('Writing data')
-  writeFileSync('export.geojson', JSON.stringify(geojson, null, 2))
+
+  if (!existsSync('./download')) {
+    mkdirSync('./download')
+  }
+
+  writeFileSync('./download/export.geojson', JSON.stringify(geojson, null, 2))
   console.log('Wrote data')
 }
 

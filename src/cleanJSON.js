@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from 'fs'
 
 function cleanJSON (name) {
   console.log('Reading JSON')
-  const data = readFileSync('export.geojson')
+  const data = readFileSync('./download/export.geojson')
   console.log('Read JSON')
   console.log('Parsing JSON')
   const parsed = JSON.parse(data)
@@ -18,7 +18,7 @@ function cleanJSON (name) {
   }
 
   console.log('Writing JSON')
-  writeFileSync(`${name}.geojson`, JSON.stringify(cleaned, null, 2))
+  writeFileSync(`./download/${name}.geojson`, JSON.stringify(cleaned, null, 2))
   console.log('Written JSON')
 }
 
