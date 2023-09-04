@@ -15,7 +15,7 @@ const geojson = await response.json()
 
 Or the local script can be used to download the data directly from the Overpass API, to do this, follow these steps:
 
-1. Clone the repository, or download the `src` directory and the `package.json` file:
+1. Clone the repository, or download the `src` directory and the `package.json` file if you don't want to download all GeoJSON files:
 
 ```
 > git clone https://github.com/amoraschi/spain-cities-geojson/
