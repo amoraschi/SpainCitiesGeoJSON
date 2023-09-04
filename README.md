@@ -51,4 +51,3 @@ The following cities present no data when fetched through the Overpass API, for 
 [OpenStreetMap](https://www.openstreetmap.org/) - For retrieving the province names and their capital cities.
 
 [Overpass Turbo](https://overpass-turbo.eu/) - For retrieving the actual data of the roads.
-
