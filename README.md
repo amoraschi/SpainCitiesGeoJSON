@@ -4,6 +4,10 @@
   <img src="./images/Madrid.png" alt="Madrid" width="500" />
 </p>
 
+<p align="center">
+  <span>More renders <a href="./images/README.md">here</a></span>
+</p>
+
 This repository contains numerous and heavy json files that represent roads in spanish provinces capital cities. They can be used to visualize, like in [spain-cities-webpage](https://github.com/amoraschi/spain-cities-webpage),
 or study the actual roads.
 
