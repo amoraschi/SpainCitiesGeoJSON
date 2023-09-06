@@ -2,173 +2,173 @@
 
 <p align="center">
   <h3 align="center">Vitoria-Gasteiz</h3>
-  <img src="./images/Vitoria-Gasteiz.png"/>
+  <img src="./Vitoria-Gasteiz.png"/>
 </p>
 <p align="center">
   <h3 align="center">Albacete</h3>
-  <img src="./images/Albacete.png"/>
+  <img src="./Albacete.png"/>
 </p>
 <p align="center">
   <h3 align="center">Almería</h3>
-  <img src="./images/Almería.png"/>
+  <img src="./Almería.png"/>
 </p>
 <p align="center">
   <h3 align="center">Oviedo</h3>
-  <img src="./images/Oviedo.png"/>
+  <img src="./Oviedo.png"/>
 </p>
 <p align="center">
   <h3 align="center">Ávila</h3>
-  <img src="./images/Ávila.png"/>
+  <img src="./Ávila.png"/>
 </p>
 <p align="center">
   <h3 align="center">Badajoz</h3>
-  <img src="./images/Badajoz.png"/>
+  <img src="./Badajoz.png"/>
 </p>
 <p align="center">
   <h3 align="center">Barcelona</h3>
-  <img src="./images/Barcelona.png"/>
+  <img src="./Barcelona.png"/>
 </p>
 <p align="center">
   <h3 align="center">Burgos</h3>
-  <img src="./images/Burgos.png"/>
+  <img src="./Burgos.png"/>
 </p>
 <p align="center">
   <h3 align="center">Cáceres</h3>
-  <img src="./images/Cáceres.png"/>
+  <img src="./Cáceres.png"/>
 </p>
 <p align="center">
   <h3 align="center">Cádiz</h3>
-  <img src="./images/Cádiz.png"/>
+  <img src="./Cádiz.png"/>
 </p>
 <p align="center">
   <h3 align="center">Santander</h3>
-  <img src="./images/Santander.png"/>
+  <img src="./Santander.png"/>
 </p>
 <p align="center">
   <h3 align="center">Ciudad Real</h3>
-  <img src="./images/Ciudad Real.png"/>
+  <img src="./Ciudad Real.png"/>
 </p>
 <p align="center">
   <h3 align="center">Córdoba</h3>
-  <img src="./images/Córdoba.png"/>
+  <img src="./Córdoba.png"/>
 </p>
 <p align="center">
   <h3 align="center">Cuenca</h3>
-  <img src="./images/Cuenca.png"/>
+  <img src="./Cuenca.png"/>
 </p>
 <p align="center">
   <h3 align="center">Girona</h3>
-  <img src="./images/Girona.png"/>
+  <img src="./Girona.png"/>
 </p>
 <p align="center">
   <h3 align="center">Granada</h3>
-  <img src="./images/Granada.png"/>
+  <img src="./Granada.png"/>
 </p>
 <p align="center">
   <h3 align="center">Guadalajara</h3>
-  <img src="./images/Guadalajara.png"/>
+  <img src="./Guadalajara.png"/>
 </p>
 <p align="center">
   <h3 align="center">Huelva</h3>
-  <img src="./images/Huelva.png"/>
+  <img src="./Huelva.png"/>
 </p>
 <p align="center">
   <h3 align="center">Jaén</h3>
-  <img src="./images/Jaén.png"/>
+  <img src="./Jaén.png"/>
 </p>
 <p align="center">
   <h3 align="center">A Coruña</h3>
-  <img src="./images/A Coruña.png"/>
+  <img src="./A Coruña.png"/>
 </p>
 <p align="center">
   <h3 align="center">Logroño</h3>
-  <img src="./images/Logroño.png"/>
+  <img src="./Logroño.png"/>
 </p>
 <p align="center">
   <h3 align="center">Las Palmas de Gran Canaria</h3>
-  <img src="./images/Las Palmas de Gran Canaria.png"/>
+  <img src="./Las Palmas de Gran Canaria.png"/>
 </p>
 <p align="center">
   <h3 align="center">León</h3>
-  <img src="./images/León.png"/>
+  <img src="./León.png"/>
 </p>
 <p align="center">
   <h3 align="center">Lleida</h3>
-  <img src="./images/Lleida.png"/>
+  <img src="./Lleida.png"/>
 </p>
 <p align="center">
   <h3 align="center">Lugo</h3>
-  <img src="./images/Lugo.png"/>
+  <img src="./Lugo.png"/>
 </p>
 <p align="center">
   <h3 align="center">Madrid</h3>
-  <img src="./images/Madrid.png"/>
+  <img src="./Madrid.png"/>
 </p>
 <p align="center">
   <h3 align="center">Málaga</h3>
-  <img src="./images/Málaga.png"/>
+  <img src="./Málaga.png"/>
 </p>
 <p align="center">
   <h3 align="center">Murcia</h3>
-  <img src="./images/Murcia.png"/>
+  <img src="./Murcia.png"/>
 </p>
 <p align="center">
   <h3 align="center">Ourense</h3>
-  <img src="./images/Ourense.png"/>
+  <img src="./Ourense.png"/>
 </p>
 <p align="center">
   <h3 align="center">Palencia</h3>
-  <img src="./images/Palencia.png"/>
+  <img src="./Palencia.png"/>
 </p>
 <p align="center">
   <h3 align="center">Pontevedra</h3>
-  <img src="./images/Pontevedra.png"/>
+  <img src="./Pontevedra.png"/>
 </p>
 <p align="center">
   <h3 align="center">Salamanca</h3>
-  <img src="./images/Salamanca.png"/>
+  <img src="./Salamanca.png"/>
 </p>
 <p align="center">
   <h3 align="center">Santa Cruz de Tenerife</h3>
-  <img src="./images/Santa Cruz de Tenerife.png"/>
+  <img src="./Santa Cruz de Tenerife.png"/>
 </p>
 <p align="center">
   <h3 align="center">Segovia</h3>
-  <img src="./images/Segovia.png"/>
+  <img src="./Segovia.png"/>
 </p>
 <p align="center">
   <h3 align="center">Sevilla</h3>
-  <img src="./images/Sevilla.png"/>
+  <img src="./Sevilla.png"/>
 </p>
 <p align="center">
   <h3 align="center">Soria</h3>
-  <img src="./images/Soria.png"/>
+  <img src="./Soria.png"/>
 </p>
 <p align="center">
   <h3 align="center">Tarragona</h3>
-  <img src="./images/Tarragona.png"/>
+  <img src="./Tarragona.png"/>
 </p>
 <p align="center">
   <h3 align="center">Teruel</h3>
-  <img src="./images/Teruel.png"/>
+  <img src="./Teruel.png"/>
 </p>
 <p align="center">
   <h3 align="center">Toledo</h3>
-  <img src="./images/Toledo.png"/>
+  <img src="./Toledo.png"/>
 </p>
 <p align="center">
   <h3 align="center">Valladolid</h3>
-  <img src="./images/Valladolid.png"/>
+  <img src="./Valladolid.png"/>
 </p>
 <p align="center">
   <h3 align="center">Bilbao</h3>
-  <img src="./images/Bilbao.png"/>
+  <img src="./Bilbao.png"/>
 </p>
 <p align="center">
   <h3 align="center">Zamora</h3>
-  <img src="./images/Zamora.png"/>
+  <img src="./Zamora.png"/>
 </p>
 <p align="center">
   <h3 align="center">Zaragoza</h3>
-  <img src="./images/Zaragoza.png"/>
+  <img src="./Zaragoza.png"/>
 </p>
