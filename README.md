@@ -1,5 +1,8 @@
 <h1 align="center">Spain Cities GeoJSON</h1>
 <h4 align="center">GeoJSON road files for spanish provinces capital cities</h4>
+<p align="center">
+  <img src="./images/Madrid.png" alt="Madrid" width="500">
+</p>
 
 This repository contains numerous and heavy json files that represent roads in spanish provinces capital cities. They can be used to visualize, like in [spain-cities-webpage](https://github.com/amoraschi/spain-cities-webpage),
 or study the actual roads.
